@@ -1,5 +1,4 @@
-### Hi there, I'm Vladimir Egay - aka [vladimir-125][website] 👋
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=%23010003&width=700&height=40&lines=Hi+there%2C+I'm+Vladimir+Egay)](https://git.io/typing-svg)- aka [vladimir-125][website]
 
 ## I'm a Software Developer, Data Scientist, and . . . </br> just a cool guy (=
 
@@ -42,12 +41,9 @@
 
 ---
 
-|<img  align="center" src="https://github-readme-stats.vercel.app/api?username=Vladimir-125&show_icons=true&count_private=true&theme=buefy&hide_border=true">|<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vladimir-125&layout=compact&theme=buefy&hide_border=true" />|
+|<img  align="center" src="https://github-readme-stats.vercel.app/api?username=Vladimir-125&show_icons=true&count_private=true&theme=buefy&hide_border=true&disable_animations=false">|<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vladimir-125&layout=compact&theme=buefy&hide_border=true&disable_animations=false" />|
 | ------------- | ------------- |
  
-
-
-
 
 [website]: https://vladimir-125.github.io/resume/
 [facebook]: https://www.facebook.com/vladimir.egay.official
