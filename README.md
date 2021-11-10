@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=%23010003&width=700&height=40&lines=Hi+there%2C+I'm+Vladimir+Egay)](https://git.io/typing-svg)- aka [vladimir-125][website]
 
-## I'm a Software Developer, Data Scientist, and . . . </br> just a cool guy (=
+## I'm a Software Developer, Data Scientist, and . . . </br> just a cool guy :smile:
 
 - 🔭 Graduate student at Seoul National University
 - 💘 Love to develop web-based applications (including mobile and desktop)
