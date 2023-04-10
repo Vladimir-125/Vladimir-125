@@ -45,7 +45,7 @@
 
 ---
 
-|<img  align="center" src="https://github-readme-stats.vercel.app/api?username=Vladimir-125&show_icons=true&count_private=true&theme=buefy&hide_border=true&disable_animations=false">|<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vladimir-125&layout=compact&theme=buefy&hide_border=true&disable_animations=false&langs_count=10" />|
+|<img  align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Vladimir-125&show_icons=true&count_private=true&theme=buefy&hide_border=true&disable_animations=false">|<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Vladimir-125&layout=compact&theme=buefy&hide_border=true&disable_animations=false&langs_count=10" />|
 | ------------- | ------------- |
  
 
