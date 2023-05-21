@@ -1,12 +1,14 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=%23010003&width=700&height=40&lines=Hi+there%2C+I'm+Vladimir+Egay)](https://git.io/typing-svg)- aka [vladimir-125][website]
 
-## I'm a Software Developer, Data Scientist, and . . . </br> just a cool guy :smile:
+## 🚀 Code Enthusiast, Data Maestro, and . . . </br> just a cool guy :smile:
 
-- 🔭 Graduate student at Seoul National University
-- 💘 Love to develop web-based applications (including mobile and desktop)
-- 📈 Crazy with data
-- 🔥 Automatization lover
+- 🕸️ Passionately crafting applications and APIs for a interconnected world
+- 📈  Spinning raw data into rich narratives, bringing life to numbers
+- 🔥 Automating the future, one code snippet at a time
+- 🎛️ On a side journey through the depths of MLOps, DevOps, and Networking
+- 🏗️ Championing the modular world of microservice architecture
 - 👯 Looking forward to collaborating with other developers
+
 ### Connect with me:
 
 [<img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
@@ -27,12 +29,12 @@
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="Electron" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" />
-<img align="left" alt="PyQT" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" />
 <img align="left" alt="Arduino" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
 <br />
 <br />
 
 ### Tools:
+<img align="left" alt="Docker icon" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />
 <img align="left" alt="amazonwebservices-original-wordmark" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
