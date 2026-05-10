@@ -44,7 +44,8 @@
 <td valign="top" align="center">
 
 <img alt="PyTorch" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
-<img alt="LLMs" width="32px" src="https://cdn.simpleicons.org/openai/412991" />
+<img alt="LLMs" height="28px" src="https://img.shields.io/badge/LLMs-412991?style=flat&logo=openai&logoColor=white" />
+<img alt="Hugging Face" width="32px" src="https://cdn.simpleicons.org/huggingface/FFD21E" />
 <img alt="n8n" width="32px" src="https://cdn.simpleicons.org/n8n/EA4B71" />
 <img alt="Jupyter" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
 
@@ -78,7 +79,7 @@
 
 ### Spoken Languages:
 
-🇷🇺 Russian (native) &nbsp;·&nbsp; 🇺🇿 Uzbek (native) &nbsp;·&nbsp; 🇬🇧 English &nbsp;·&nbsp; 🇰🇷 Korean
+🇷🇺 Russian (native) &nbsp;·&nbsp; 🇺🇿 Uzbek (native) &nbsp;·&nbsp; 🇬🇧 English (advanced) &nbsp;·&nbsp; 🇰🇷 Korean (advanced)
 
 ---
 
